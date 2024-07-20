@@ -14,8 +14,8 @@ Hãy đảm bảo bạn đã cài đặt `wget` và `tar` trên hệ thống c�
 Trước tiên, clone repository từ GitHub về máy tính của bạn:
 
 ```sh
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
+git clone https://github.com/MinaDepTrai/SetupMCWithoutRoot/
+cd SetupMCWithoutRoot
 ```
 
 ### Bước 2: Thiết Lập Máy Chủ
